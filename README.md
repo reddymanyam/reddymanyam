@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **reddppareddy18@gmail.com**
 
-- ⚡ As a passionate software developer, I consistently strive for clean and efficient code, leveraging best practices to ensure maintainability and scalability. My commitment to rigorous testing and documentation reflects my dedication to delivering high-quality software. Through collaborative development and continuous improvement, I aim to contribute positively to our project's success.
+- ⚡<style text-align: justify> As a passionate software developer, I consistently strive for clean and efficient code, leveraging best practices to ensure maintainability and scalability. My commitment to rigorous testing and documentation reflects my dedication to delivering high-quality software. Through collaborative development and continuous improvement, I aim to contribute positively to our project's success.<style>
 - 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
