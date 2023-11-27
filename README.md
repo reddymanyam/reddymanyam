@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **reddppareddy18@gmail.com**
 
-- ⚡<style text-align: justify> As a passionate software developer, I consistently strive for clean and efficient code, leveraging best practices to ensure maintainability and scalability. My commitment to rigorous testing and documentation reflects my dedication to delivering high-quality software. Through collaborative development and continuous improvement, I aim to contribute positively to our project's success.<style>
+- ⚡As a fresh graduate in software development, I am eager to apply my skills and contribute effectively to your team. Passionate about learning and dedicated to delivering high-quality solutions. Excited about the opportunity to start my career with your organization.
 - 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
