@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Reddappa Reddy Manyam</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 <img align="right" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRXCNPbRCeMO1xoSfGhZNiu5TSKMNpYk1ldajDhcc7LYHECR2i4pVpEGDHoKoLTOHn5fg&usqp=CAU">
 - 👨‍💻 All of my projects are available at [https://github.com/reddymanyam](https://github.com/reddymanyam)
 
 - 📫 How to reach me **reddppareddy18@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ I enjoy tackling challenges and turning ideas into reality. Whether it's crafting clean and maintainable code or diving into databases to optimize performance, I'm always eager to learn and adapt to new technologies. When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, or honing my problem-solving skills on platforms like LeetCode and HackerRank. Let's build something amazing together! Feel free to explore my portfolio and don't hesitate to reach out if you have exciting opportunities or projects to discuss.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
