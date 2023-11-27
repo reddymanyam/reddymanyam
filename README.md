@@ -6,7 +6,6 @@
 - 📫 How to reach me **reddppareddy18@gmail.com**
 
 - ⚡As a fresh graduate in software development, I am eager to apply my skills and contribute effectively to your team. Passionate about learning and dedicated to delivering high-quality solutions. Excited about the opportunity to start my career with your organization.
-- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/reddappa reddy manyam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reddappa reddy manyam" height="30" width="40" /></a>
