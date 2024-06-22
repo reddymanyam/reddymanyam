@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Reddappa Reddy Manyam</h1>
-<h3 align="center">👨‍💻A passionate Software developer from India </h3>
+<h3 align="center">👨‍💻A passionate Web developer from India </h3>
 <img align="right" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRXCNPbRCeMO1xoSfGhZNiu5TSKMNpYk1ldajDhcc7LYHECR2i4pVpEGDHoKoLTOHn5fg&usqp=CAU">
 - 👨‍💻 All of my projects are available on this github profile
 
