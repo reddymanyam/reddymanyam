@@ -13,7 +13,7 @@
 - 🌱 I'm currently expanding my knowledge in Full Stack Development
 - 👨‍💻 All of my projects are available on this GitHub profile
 - 📫 Reach me at: **reddppareddy18@gmail.com**
-- ⚡ Fresh graduate eager to apply skills and contribute effectively
+- ⚡ Web developer with 1 year of experience eager to apply skills and contribute effectively
 - 🎯 Goal-oriented developer passionate about creating impactful solutions
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Connect with me
