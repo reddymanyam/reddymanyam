@@ -1,10 +1,10 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Manyam Reddappa Reddy </h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Reddappa Reddy Manyam</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Passionate+Web+Developer;Full+Stack+Developer;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
-<!-- Choose any ONE of these animations by uncommenting it and removing the others -->
+<!-- Coding Animation Option (Choose the one you prefer by uncommenting it) -->
 
 <!-- Option 1: Coding Animation with Dark Theme -->
 <div align="center">
@@ -32,13 +32,67 @@
 </div> -->
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
-- 👨‍💻 A passionate Web Developer from India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🌱 I'm currently expanding my knowledge in Full Stack Development
-- 👨‍💻 All of my projects are available on this GitHub profile
-- 📫 Reach me at: **reddppareddy18@gmail.com**
-- 🎯 Goal-oriented developer passionate about creating impactful solutions
+- 👨‍💻 A dedicated Web Developer from India with **1 year of experience** in Full Stack Development.
+- 🌱 Currently expanding my knowledge and skills in advanced web development.
+- 📂 **Projects**: All of my projects are available on [My GitHub Profile](https://github.com/reddappareddy).
+- 📫 **Reach Me**: **reddppareddy18@gmail.com**
+- 🎯 Passionate about creating impactful, high-quality solutions.
 
-[Rest of the README content remains the same as in previous version...]
+---
+
+### 🛠️ Tech Stack
+
+#### 🌟 Frontend
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" />
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" />
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" />
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
+</p>
+
+#### ⚙️ Backend
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
+  <img src="https://img.icons8.com/color/48/000000/express-js.png" alt="Express.js" />
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
+</p>
+
+#### 💾 Databases & Tools
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
+  <img src="https://img.icons8.com/color/48/000000/webpack.png" alt="Webpack" />
+  <img src="https://img.icons8.com/color/48/000000/babel.png" alt="Babel" />
+</p>
+
+---
+
+### 🔥 GitHub Streaks
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reddappareddy&theme=radical&hide_border=true"/>
+</p>
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=reddappareddy&show_icons=true&theme=radical&hide_border=true" alt="reddappareddy's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reddappareddy&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=reddappareddy&theme=radical&no-frame=true" alt="reddappareddy's trophies" />
+</p>
+
+---
+
+### 🏅 Achievements & Badges
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20Source%20Enthusiast-blue" />
+  <img src="https://img.shields.io/badge/Problem%20Solver%20-%20Algorithm%20Expert-lightgrey" />
+</p>
 
 <!-- Footer Animation -->
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="Footer">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="Footer">
+</p>
