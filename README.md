@@ -55,7 +55,7 @@
 ## <img src="https://media.giphy.com/media/IeRdg7gLkfK1ly2mFU/giphy.gif" width="25"> GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reddappareddy&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reddymanyam&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -64,12 +64,12 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reddappareddy&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reddappareddy&layout=compact&theme=radical" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reddymanyam &layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> GitHub Activity Graph
 
-[![Reddappa's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=reddappareddy&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Reddy Manyam GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=reddappareddy&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
