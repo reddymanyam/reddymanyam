@@ -59,17 +59,17 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reddappareddy&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reddymanyam&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reddappareddy&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reddymanyam&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reddymanyam&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> GitHub Activity Graph
 
-[![Reddy Manyam GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=reddappareddy&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Reddy Manyam GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=reddymanyam&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
