@@ -4,9 +4,7 @@
   <img src="https://i.pinimg.com/originals/e6/71/b0/e671b030905d5ca04572953a747facc7.gif" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://i.pinimg.com/originals/f6/34/01/f634017e8277d18a163603575ca753e3.gif" width="100%" height="350px" />
-</div>
+
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
 - 👨‍💻 A passionate Web Developer from India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
