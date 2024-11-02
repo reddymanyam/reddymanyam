@@ -1,8 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Manyam Reddappa Reddy</h1>
 
 <div align="center">
-  <img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=440&size=24&lines=Passionate+Web+Developer;Full+Stack+Developer;Always+Learning+New+Things](https://i.pinimg.com/originals/54/c9/af/54c9af226721e95539a5cd9592d635bb.gif)" alt="Typing SVG" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=440&size=24&lines=Passionate+Web+Developer;Full+Stack+Developer;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
 <div align="center">
