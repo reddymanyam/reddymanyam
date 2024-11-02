@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Manyam Reddappa Reddy</h1>
 
 <div align="center">
- <img src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif" />
+ <img src="https://i.pinimg.com/736x/c2/89/46/c289460ba2407588f9e76f6b1ab81616.jpg" />
 </div>
 
 
