@@ -1,12 +1,12 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Manyam Reddappa Reddy</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=440&size=30&lines=Passionate+Web+Developer;Full+Stack+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=440&size=24&lines=Passionate+Web+Developer;Full+Stack+Developer;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
 
 <div aligin="center">
-  <img src="https://i.pinimg.com/736x/06/98/6a/06986a1609bd2fcbd8cb047c789738d0.jpg" width="80%"  alt="coding">
+  <img src="[https://i.pinimg.com/736x/06/98/6a/06986a1609bd2fcbd8cb047c789738d0.jpg](https://i.pinimg.com/originals/1f/20/f4/1f20f423834bca13c5b4b90558c71977.gif)" alt="coding">
 </div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
