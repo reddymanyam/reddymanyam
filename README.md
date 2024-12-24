@@ -53,7 +53,9 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## <img src="https://media.giphy.com/media/IeRdg7gLkfK1ly2mFU/giphy.gif" width="25"> GitHub Stats
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=reddappareddy&style=flat-square&color=blue" alt="Profile Views">
+</div>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reddymanyam&theme=radical" alt="GitHub Stats" />
 </p>
@@ -65,6 +67,4 @@
 
 
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=reddappareddy&style=flat-square&color=blue" alt="Profile Views">
-</div>
+
