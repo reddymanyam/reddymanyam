@@ -60,29 +60,14 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white)
 
 ## <img src="https://media.giphy.com/media/IeRdg7gLkfK1ly2mFU/giphy.gif" width="25"> GitHub Stats
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=reddymanyam&style=flat-square&color=blue" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=reddappareddy&style=flat-square&color=blue" alt="Profile Views">
 </div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reddymanyam&theme=radical" alt="GitHub Stats" />
+</p>
 
-### Option 1: GitHub Readme Stats (Most Common)
-<div align="center">
-  
-  ![](https://github-readme-stats.vercel.app/api?username=reddymanyam&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=reddymanyam&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-  
-</div>
-
-### Option 2: GitHub Trophies (Always Works)
-<div align="center">
-  
-  ![](https://github-profile-trophy.vercel.app/?username=reddymanyam&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-  
-</div>
-
-### Option 3: Activity Graph
-<div align="center">
-  
-  ![](https://github-readme-activity-graph.vercel.app/graph?username=reddymanyam&theme=radical&area=true&hide_border=true)
-  
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reddymanyam&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reddymanyam&layout=compact&theme=radical" alt="Top Languages" />
+</p>
