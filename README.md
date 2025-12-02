@@ -61,13 +61,14 @@
 
 ## <img src="https://media.giphy.com/media/IeRdg7gLkfK1ly2mFU/giphy.gif" width="25"> GitHub Stats
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=reddappareddy&style=flat-square&color=blue" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=reddappa-reddy-manyam&style=flat-square&color=blue" alt="Profile Views">
 </div>
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reddymanyam&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reddappa-reddy-manyam&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reddymanyam&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reddymanyam&layout=compact&theme=radical" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reddappa-reddy-manyam&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reddappa-reddy-manyam&layout=compact&theme=radical" alt="Top Languages" />
 </p>
