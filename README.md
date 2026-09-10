@@ -62,6 +62,14 @@ AWS and DevOps-focused Software Engineer with 3+ years of experience in containe
 
 <br clear="both"/>
 
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,jenkins,githubactions,git,github,python,bash,js,react,nodejs,express,php,postgres,mongodb,redis,oracle,linux,prometheus,grafana&theme=dark&perline=11" alt="Skill Icons"/>
+
+</div>
+
+---
+
 ## 🛠️ Technical Skills
 
 <div align="center">
@@ -136,6 +144,8 @@ AWS and DevOps-focused Software Engineer with 3+ years of experience in containe
 
 </div>
 
+---
+
 ## 🚀 Production Experience
 
 <table>
@@ -168,6 +178,8 @@ End-to-end ownership of cloud-native delivery — from infrastructure provisioni
 </td>
 </tr>
 </table>
+
+---
 
 ## 🔧 Engineering Workflow
 
@@ -239,6 +251,8 @@ Monitor & Troubleshoot
 Continuous Improvement
 ```
 
+---
+
 ## 🎯 Core Strengths
 
 <div align="center">
@@ -262,6 +276,8 @@ Continuous Improvement
 
 </div>
 
+---
+
 ## 🤝 Open to Collaboration
 
 I'm interested in collaborating on:
@@ -276,22 +292,29 @@ I'm interested in collaborating on:
 - 🐍 Python automation
 - 🚀 Open-source projects
 
+---
+
 ## 📊 GitHub Stats
+
+> ⚠️ Replace `reddymanyam` below with your **exact** GitHub username (case-sensitive). These widgets are 100% username-driven — if the username doesn't match a real public GitHub account, every card below renders blank, which is very likely why they weren't showing up.
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reddymanyam&theme=radical" alt="GitHub Profile Details" />
+<img src="https://github-readme-stats.vercel.app/api?username=reddymanyam&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=3600" width="49%" alt="GitHub Stats"/>
+<img src="https://streak-stats.demolab.com/?user=reddymanyam&theme=radical&hide_border=true" width="49%" alt="GitHub Streak"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=reddymanyam&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reddymanyam&layout=compact&theme=radical" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reddymanyam&layout=compact&theme=radical&hide_border=true&cache_seconds=3600" width="49%" alt="Top Languages"/>
+<img src="https://github-profile-trophy.vercel.app/?username=reddymanyam&theme=radical&no-frame=true&column=4&margin-w=8&margin-h=8" width="49%" alt="GitHub Trophies"/>
 
-<img src="https://streak-stats.demolab.com/?user=reddymanyam&theme=radical" alt="GitHub Streak" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=reddymanyam&theme=radical&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=reddymanyam&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=reddymanyam&theme=radical&area=true&hide_border=true" alt="Contribution Graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reddymanyam&theme=radical" width="100%" alt="GitHub Profile Details"/>
 
 </div>
+
+<sub>All five widgets above are free community services (Vercel-hosted) that share a GitHub API rate limit across every profile that uses them. If a card still shows an error after fixing the username, it's usually a temporary rate limit — reload in a few minutes, or self-host your own instance from the linked GitHub repos for guaranteed uptime.</sub>
+
+---
 
 <div align="center">
 
