@@ -296,7 +296,6 @@ I'm interested in collaborating on:
 
 ## 📊 GitHub Stats
 
-> ⚠️ Replace `reddymanyam` below with your **exact** GitHub username (case-sensitive). These widgets are 100% username-driven — if the username doesn't match a real public GitHub account, every card below renders blank, which is very likely why they weren't showing up.
 
 <div align="center">
 
