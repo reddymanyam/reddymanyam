@@ -296,13 +296,14 @@ I'm interested in collaborating on:
 
 ## 📊 GitHub Stats
 
+> Your username (`reddymanyam`) is confirmed correct — the streak card, contribution graph, and profile summary card all render fine. The **main stats card**, **top languages**, and **trophies** specifically were broken because the classic `github-readme-stats.vercel.app` project was retired in early 2026 in favor of its actively-maintained successor, **GitHub Stats Extended** — swapped in below. `github-profile-trophy` still runs on volunteer infrastructure that occasionally returns empty images; if it ever goes blank again, swap in one of the fallback mirrors listed underneath it.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=reddymanyam&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=3600" width="49%" alt="GitHub Stats"/>
+<img src="https://github-stats-extended.vercel.app/api?username=reddymanyam&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=3600" width="49%" alt="GitHub Stats"/>
 <img src="https://streak-stats.demolab.com/?user=reddymanyam&theme=radical&hide_border=true" width="49%" alt="GitHub Streak"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reddymanyam&layout=compact&theme=radical&hide_border=true&cache_seconds=3600" width="49%" alt="Top Languages"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=reddymanyam&layout=compact&theme=radical&hide_border=true&cache_seconds=3600" width="49%" alt="Top Languages"/>
 <img src="https://github-profile-trophy.vercel.app/?username=reddymanyam&theme=radical&no-frame=true&column=4&margin-w=8&margin-h=8" width="49%" alt="GitHub Trophies"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=reddymanyam&theme=radical&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
@@ -311,7 +312,7 @@ I'm interested in collaborating on:
 
 </div>
 
-<sub>All five widgets above are free community services (Vercel-hosted) that share a GitHub API rate limit across every profile that uses them. If a card still shows an error after fixing the username, it's usually a temporary rate limit — reload in a few minutes, or self-host your own instance from the linked GitHub repos for guaranteed uptime.</sub>
+<sub>If the trophy card ever goes blank again, replace `github-profile-trophy.vercel.app` with one of these community-run mirrors: `github-profile-trophy-liard-delta.vercel.app` or `trophy.benkou.dev`. All of these cards are free, best-effort services sharing a GitHub API rate limit — for guaranteed uptime, the projects' own docs recommend self-hosting your own instance or using their GitHub Actions workflow to bake a static SVG into your repo instead of loading it live.</sub>
 
 ---
 
